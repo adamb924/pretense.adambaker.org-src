@@ -1,0 +1,40 @@
+---
+id: 190
+title: 'Do Christians and Zoroastrians worship the same God?'
+date: '2016-01-07T07:44:26-04:30'
+author: adamb924
+layout: post
+guid: 'http://pretense.adambaker.org/?p=190'
+permalink: '/?p=190'
+categories:
+    - Philosophy
+    - Theology
+---
+
+I can never ignore a controversy, so here we go. Do Christians and Zoroastrians worship the same god or different gods?
+
+I find that this is not as simple a question to answer as I would like. My problems are not theological but linguistic. It brings me into semiotics, semantics, and pragmatics. Most of my linguistic education and all of my linguistic research, on the other hand, focuses on sounds, so if this seems a bit amateurish, that’s why.
+
+It’s not the case that words are unimportant. A theory of semantics that links words directly to real-world objects (as we call them, “referents”), misses some points. There are some words that directly identify real-world objects, like “Earth,” “Moon,” etc. But not always. Frege observed that the sentence, “The Morning Star is the Evening Star” is meaningful and informative: it means that both astronomical entities are actually the planet Venus. If the signs “the Morning Star” and “the Evening Star” referred directly to real-world objects, then the aforementioned sentence would be equivalent to, “Venus is Venus,” which is tautologous and therefore uninteresting. But since the sentence is actually informative, it is clear that the words themselves have semantic significance. The sign “the Morning Star,” for instance, has significance beyond its real-world referent. We can say things about the sign itself: it has meaning.
+
+In this connection, my mind wanders back to the Wars of the Roses. During that bloody conflict between the Houses of York and Lancaster, was there any political question less to the purpose than, “Are you loyal to the King of England?” Because of course everyone thought that he was. The divisive question—if you wanted to be divisive—was, “Who do you take to be the King of England?” That situation, however, is not quite parallel. Back then, we could have set Henry, Edward, and Richard all in a row, and the task would have been to choose one to whom to assign the title “King of England.” On the other hand, we can’t place YHWH and Ahura Mazda next to each other and ask which one is “god.”
+
+But speaking of presidents… Suppose we’ve got two people thinking about a specific person (a specific referent), with different ideas about that person. The difference again is between sense (or meaning) and referent. Let’s suppose that the referent is easy: everyone believes in the existence of Barrack Obama. But one person’s dictionary definition reads, “Forty-forth President of the United States (2009-2017), notable for ending the Iraq War and passing the Affordable Care Act.” Another’s reads, “Foreign-born communist, impostor to the presidency, who wants our guns and our freedom.” Are those people talking about the same person? Yes, they have the same referent for the sign. Does the sign have the same meaning? No, certainly not.
+
+A printed dictionary entry traditionally includes a short biographical sketch, and we might imagine the same to be true of the mental lexicon. But there is in principle no limit to the amount of information in the biography. The research I’ve read doesn’t give me any reason to believe that there’s a firm boundary between a sign and the whole of a person’s encyclopedic information about that sign.
+
+On the other hand, our different understandings of a sign don’t typically interfere with communication. People who think that the President is a modern-day Gandhi and people who think he is a modern-day Stalin can still refer to the sign “Barrack Obama” without any misunderstandings. It’s not as though Democrats and Republicans interpret differently such sentences as, “Barrack Obama attended the G7 Summit this week.” So in some contexts, it doesn’t seem that encyclopedic information is particularly germane. And when semantics runs out of gas, it’s time to turn to pragmatics.
+
+Although my focus here is on Zoroastrianism, it’s hard not to draw in some other monotheistic religions as well. If a Jew or a Muslim were to say to me, “I worship the Creator of All Things,” then I could reply with perfect logical consistency, “How wonderful! I worship Jesus too.” This would be logically consistent, but it would not be helpful in inter-religious dialog, and it would not be what pragmatists call a “cooperative” use of language. In fact, my interlocutor would almost be obliged to interpret my perfectly logical utterance as a poke in the eye.
+
+Why is that the case? Because communicating successfully means (believe it or not) reading someone’s mind to understand what they are saying. I need to understand that when a Jew or Muslim says “Creator of All Things,” I need to interpret that sign from the perspective of the speaker. Even if I am logically free to plug that expression into my set of personal beliefs, it would be a disingenuous way to communicate. It would be uncooperative.
+
+Incidentally, according to [this blog entry](http://www.patheos.com/blogs/jesuscreed/2015/12/16/the-same-god-12/), Miroslav Volf claims in his book *Allah: A Christian Response*, that there are four properties of god that Muslims and Christians agree upon (monotheism, creation, uniqueness, and goodness), and concludes that, “Whoever agrees on these four convictions about God refers to the same ‘object’ when talking about God” (pg. 101, according to the web site). The linguistic reason that this is nonsensical is that it’s impossible to say what “sufficiently similar” means for every pragmatic context. In some discussions, the property of “goodness” will be irrelevant, and the property “became a man once in 1<sup>st</sup> century Palestine” will be quite relevant. In other contexts—such as in discussing the question, “Shall we stop killing one another?”—the property of “goodness” will be quite sufficient. But if one could simply define the meanings of words one and for all, for every context, there would be no discipline called “pragmatics.” (Also, computers would understand language better, though at the cost that language as a whole would only work as well as computers understand language now.)
+
+The distinction between sense and referent is why Paul of Tarsus can say of non-Christian Jews, “I can testify about them that they are zealous for God, but their zeal is not based on knowledge” (Romans 10:2). There is no question for Paul that Christian Jews and non-Christian Jews (and, fortunately for people like me, now Christian non-Jews) all worship the same god. Unfortunately there’s little more than tragic irony to be drawn from the identity of reference. “For, as I have often told you before and now say again even with tears, many live as enemies of the cross of Christ” (Philippians 3:18).
+
+It’s obvious in these days of interreligious strife, however, that the question of the identity of the Christian god with Ahura Mazda is more about in-group/out-group differentiation than it is about theology, or even, sadly, about linguistics. I harbor no illusions about the ability of linguistics to solve the world’s problems. Linguistics at least allows us to sit Qoholeth-like on the sidelines with a clear (if sad) understanding of what’s going on in the broader world. But if you want my non-linguistic advice on the whole matter: stop talking about what Zoroastrians believe, and start talking to Zoroastrians.
+
+And as a reward to those who scrolled to the end to save time:
+
+Do Christians and Zoroastrians worship the same god? The question is (literally) meaningless and knowing the answer will certainly not help you to understand what you are trying to understand, or to make point you are trying to make. In fact, if you still care about the question at this point, then you haven’t really understood the point of this blog entry. But yes.
