@@ -5,7 +5,6 @@ date: '2022-02-02T02:17:37-04:30'
 author: adamb924
 layout: post
 guid: 'https://pretense.adambaker.org/?p=642'
-permalink: '/?p=642'
 categories:
     - News
 ---

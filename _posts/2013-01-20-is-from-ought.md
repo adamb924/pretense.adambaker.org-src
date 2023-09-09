@@ -5,7 +5,6 @@ date: '2013-01-20T10:31:30-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=74'
-permalink: '/?p=74'
 categories:
     - Philosophy
 ---

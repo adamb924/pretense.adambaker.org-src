@@ -5,7 +5,6 @@ date: '2015-08-29T04:22:53-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=171'
-permalink: '/?p=171'
 categories:
     - 'Recycled essays'
 ---

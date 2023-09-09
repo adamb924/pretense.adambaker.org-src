@@ -5,7 +5,6 @@ date: '2012-10-22T10:46:35-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=29'
-permalink: '/?p=29'
 categories:
     - 'Michael Polanyi'
     - News

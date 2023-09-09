@@ -5,7 +5,6 @@ date: '2015-02-20T14:30:27-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=136'
-permalink: '/?p=136'
 categories:
     - Books
     - One-liners

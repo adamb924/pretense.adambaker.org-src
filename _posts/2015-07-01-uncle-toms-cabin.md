@@ -5,7 +5,6 @@ date: '2015-07-01T14:19:37-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=148'
-permalink: '/?p=148'
 categories:
     - Books
 ---

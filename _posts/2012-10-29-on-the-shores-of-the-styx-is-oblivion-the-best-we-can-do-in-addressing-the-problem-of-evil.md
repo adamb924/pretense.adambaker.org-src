@@ -5,7 +5,6 @@ date: '2012-10-29T01:30:46-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=51'
-permalink: '/?p=51'
 categories:
     - Books
     - Theology

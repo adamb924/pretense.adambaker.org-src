@@ -5,7 +5,6 @@ date: '2021-12-24T06:41:08-04:30'
 author: adamb924
 layout: post
 guid: 'https://pretense.adambaker.org/?p=636'
-permalink: '/?p=636'
 categories:
     - Uncategorized
 ---

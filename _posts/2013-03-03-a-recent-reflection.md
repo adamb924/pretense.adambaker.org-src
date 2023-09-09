@@ -5,7 +5,6 @@ date: '2013-03-03T12:43:08-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=77'
-permalink: '/?p=77'
 categories:
     - One-liners
 ---

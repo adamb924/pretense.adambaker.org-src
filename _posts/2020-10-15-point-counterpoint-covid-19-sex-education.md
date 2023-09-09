@@ -5,7 +5,6 @@ date: '2020-10-15T08:00:26-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=600'
-permalink: '/?p=600'
 categories:
     - Satire
 ---

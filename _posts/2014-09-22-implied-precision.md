@@ -5,7 +5,6 @@ date: '2014-09-22T10:40:13-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=114'
-permalink: '/?p=114'
 categories:
     - Language
 ---

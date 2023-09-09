@@ -5,7 +5,6 @@ date: '2017-02-17T07:58:56-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=300'
-permalink: '/?p=300'
 categories:
     - Satire
 ---

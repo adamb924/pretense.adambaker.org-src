@@ -5,7 +5,6 @@ date: '2020-09-08T17:32:07-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=586'
-permalink: '/?p=586'
 categories:
     - Books
     - Philosophy

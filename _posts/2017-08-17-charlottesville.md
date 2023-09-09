@@ -5,7 +5,6 @@ date: '2017-08-17T01:25:48-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=322'
-permalink: '/?p=322'
 categories:
     - News
     - Theology

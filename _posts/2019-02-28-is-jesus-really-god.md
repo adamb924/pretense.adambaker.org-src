@@ -5,7 +5,6 @@ date: '2019-02-28T18:58:31-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=564'
-permalink: '/?p=564'
 categories:
     - Uncategorized
 ---

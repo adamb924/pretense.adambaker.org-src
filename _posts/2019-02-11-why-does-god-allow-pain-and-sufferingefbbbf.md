@@ -5,7 +5,6 @@ date: '2019-02-11T16:01:49-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=365'
-permalink: '/?p=365'
 categories:
     - Philosophy
     - Theology

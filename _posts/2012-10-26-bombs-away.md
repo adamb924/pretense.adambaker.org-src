@@ -5,7 +5,6 @@ date: '2012-10-26T04:44:24-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=49'
-permalink: '/?p=49'
 categories:
     - News
 ---

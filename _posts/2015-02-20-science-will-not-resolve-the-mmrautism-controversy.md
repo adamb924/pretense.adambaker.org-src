@@ -5,7 +5,6 @@ date: '2015-02-20T15:39:43-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=138'
-permalink: '/?p=138'
 categories:
     - News
     - Philosophy

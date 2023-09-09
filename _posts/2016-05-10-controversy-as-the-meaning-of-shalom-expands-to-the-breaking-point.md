@@ -5,7 +5,6 @@ date: '2016-05-10T06:04:34-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=221'
-permalink: '/?p=221'
 categories:
     - Satire
     - Theology

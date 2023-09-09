@@ -5,7 +5,6 @@ date: '2020-09-11T15:03:08-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=591'
-permalink: '/?p=591'
 categories:
     - One-liners
     - Philosophy

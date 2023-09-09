@@ -5,7 +5,6 @@ date: '2014-03-26T17:51:15-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=111'
-permalink: '/?p=111'
 categories:
     - Theology
 ---

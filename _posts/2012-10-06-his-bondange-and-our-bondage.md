@@ -5,7 +5,6 @@ date: '2012-10-06T04:57:08-04:30'
 author: adamb924
 layout: post
 guid: 'http://pretense.adambaker.org/?p=5'
-permalink: '/?p=5'
 categories:
     - Books
     - Development
