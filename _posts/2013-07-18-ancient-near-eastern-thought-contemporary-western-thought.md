@@ -1,6 +1,6 @@
 ---
 id: 93
-title: 'Ancient Near Eastern Thought &#038; Contemporary Western Thought'
+title: 'Ancient Near Eastern Thought & Contemporary Western Thought'
 date: '2013-07-18T17:25:11-04:30'
 author: adamb924
 layout: post

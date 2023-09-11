@@ -1,6 +1,6 @@
 ---
 id: 258
-title: 'A People&#8217;s History of the United States'
+title: 'A People’s History of the United States'
 date: '2016-12-11T12:49:30-04:30'
 author: adamb924
 layout: post

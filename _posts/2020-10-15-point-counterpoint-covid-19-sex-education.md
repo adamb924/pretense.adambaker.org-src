@@ -1,6 +1,6 @@
 ---
 id: 600
-title: 'Point/Counterpoint: COVID-19 &#038; Sex Education'
+title: 'Point/Counterpoint: COVID-19 & Sex Education'
 date: '2020-10-15T08:00:26-04:30'
 author: adamb924
 layout: post

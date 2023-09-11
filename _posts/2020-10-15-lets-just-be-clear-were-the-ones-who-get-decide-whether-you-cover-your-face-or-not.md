@@ -1,6 +1,6 @@
 ---
 id: 595
-title: 'Let&#8217;s just be clear: we&#8217;re the ones who get decide whether you cover your face or not'
+title: 'Let’s just be clear: we’re the ones who get decide whether you cover your face or not'
 date: '2020-10-15T07:42:50-04:30'
 author: adamb924
 layout: post

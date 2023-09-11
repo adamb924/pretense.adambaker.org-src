@@ -1,6 +1,6 @@
 ---
 id: 126
-title: 'I don&#8217;t know why C.S. Lewis was not a pacifist'
+title: 'I don’t know why C.S. Lewis was not a pacifist'
 date: '2014-12-12T04:55:05-04:30'
 author: adamb924
 layout: post

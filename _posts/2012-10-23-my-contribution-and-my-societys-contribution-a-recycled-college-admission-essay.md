@@ -1,6 +1,6 @@
 ---
 id: 46
-title: 'My contribution and my society&#8217;s contribution: a recycled college admission essay'
+title: 'My contribution and my society’s contribution: a recycled college admission essay'
 date: '2012-10-23T01:54:29-04:30'
 author: adamb924
 layout: post

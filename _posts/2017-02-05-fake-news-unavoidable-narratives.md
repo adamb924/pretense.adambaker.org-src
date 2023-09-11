@@ -1,6 +1,6 @@
 ---
 id: 286
-title: 'Fake News &#038; Unavoidable Narratives'
+title: 'Fake News & Unavoidable Narratives'
 date: '2017-02-05T08:34:47-04:30'
 author: adamb924
 layout: post

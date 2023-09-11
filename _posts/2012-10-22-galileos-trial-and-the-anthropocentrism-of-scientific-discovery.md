@@ -1,6 +1,6 @@
 ---
 id: 29
-title: 'Galileo&#8217;s trial and the anthropocentrism of scientific discovery'
+title: 'Galileo’s trial and the anthropocentrism of scientific discovery'
 date: '2012-10-22T10:46:35-04:30'
 author: adamb924
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 148
-title: 'Uncle Tom&#8217;s Cabin'
+title: 'Uncle Tom’s Cabin'
 date: '2015-07-01T14:19:37-04:30'
 author: adamb924
 layout: post
