@@ -1,6 +1,6 @@
 For the blog site, use this to test locally:
 
-cd C:\Users\Adam\Documents\adambaker.org\pretense.adambaker.org
+cd C:\Users\Adam\Documents\pretense.adambaker.org
 bundle exec jekyll serve
 
 

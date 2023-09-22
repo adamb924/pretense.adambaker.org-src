@@ -65,3 +65,7 @@ a.post-link {
     padding: 1em;
     opacity: 80%;
 }
+
+p:has(img) {
+    text-align: center;
+}
