@@ -63,29 +63,23 @@ First, let me (Adam Baker), make the following claim: my life has a purpose.
 Next, here is some BASIC code that prints the statement, “I have a higher purpose in life!”
 
 ```
-<pre class="wp-block-code">```
 10 PRINT "My life has a purpose."
-```
 ```
 
 Is there a difference between my statement and the computer’s? If the idea of “purpose” is simply the result of human cognitive bias, then there is no difference. Both are simply the output of a machine. As lofty as my personal ideals might be, they are no different from anything that a machine might produce:
 
 ```
-<pre class="wp-block-code">```
 10 PRINT "My life has a purpose."
 20 PRINT "I have a family who loves me, and I am responsible to love and protect them."
 30 PRINT "Those I encounter day by day are worthy of love and respect."
-```
 ```
 
 Here is some more machine output:
 
 ```
-<pre class="wp-block-code">```
 10 PRINT "My life has no purpose."
 20 PRINT "My family doesn't love me, and I have no responsibility toward them."
 30 PRINT "I should exploit those I encounter day by day."
-```
 ```
 
 If we don’t want to recognize that life has purpose, then we are forced to admit that the way we think is fundamentally meaningless. Our attributions of purpose are meaningless. If we made opposite statements of purpose from those we believe, then they too would be meaningless. (Note well: not just false, but meaningless.)

@@ -92,9 +92,7 @@ These two sources of order—order in the physical universe, order in the human 
 There are other possibilities. The first—and the most likely, if I had to choose something non-theistic—is that I am after all just a collection of molecules spouting this stuff out. My lofty sentiments can indeed uttered by a machine:
 
 ```
-<pre class="wp-block-code">```
 10 PRINT "These two sources of order—order in the physical universe, order in the human experience of the universe—to my thinking, provide strong heuristic evidence for the existence of God."
-```
 ```
 
 If I am simply an animal, a complex collection of molecules, that what I am saying is equivalent to what the code above does. The evolutionary argument would be that the kind of collection of molecules that spouts out such stuff must be, on average, more likely to reproduce than the kind of collection of molecules that does not spout out such stuff. I can’t disprove that. (In fact, nobody can, but let’s set that aside for a moment.) But neither do I find it to be a convincing (much less compelling) scenario.

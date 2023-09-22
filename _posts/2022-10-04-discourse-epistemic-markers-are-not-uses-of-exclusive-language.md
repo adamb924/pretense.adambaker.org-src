@@ -35,9 +35,9 @@ But “obviously” communicates to the person who is new to the topic as well. 
 
 The original post says this about “obviously”:
 
-<figure class="wp-block-pullquote">> This is possibly the most common offender. Not everything is as *obvious* as you might think it is. That fact that you said it should be might make me feel extra-dumb at a vulnerable moment. And what if it is obvious to me? That word doesn’t help me. Sentences usually work better with that word omitted.
+> This is possibly the most common offender. Not everything is as *obvious* as you might think it is. That fact that you said it should be might make me feel extra-dumb at a vulnerable moment. And what if it is obvious to me? That word doesn’t help me. Sentences usually work better with that word omitted.
 
-</figure>Now, without context, it’s difficult to know why the assumption is that the reader feels “extra-dumb at a vulnerable moment.” It’s asking a lot of anyone’s usage to assume that any potential member of the audience is in a vulnerable moment. I much prefer to assume that any reader of mine is curious to learn something new, and has enough self-awareness to realize that some things that are obvious to other people are not obvious to him/her, and that that’s okay—that, in fact, it’s part of the learning process.
+Now, without context, it’s difficult to know why the assumption is that the reader feels “extra-dumb at a vulnerable moment.” It’s asking a lot of anyone’s usage to assume that any potential member of the audience is in a vulnerable moment. I much prefer to assume that any reader of mine is curious to learn something new, and has enough self-awareness to realize that some things that are obvious to other people are not obvious to him/her, and that that’s okay—that, in fact, it’s part of the learning process.
 
 Finally, in sentence (3) “just” again communicates a simple procedure. “Is this a difficult conversion?” “No, you just replace the spaces with tabs.” Once more, it’s a way to signal that the procedure outlined is not a complex one, but a relatively simple one.
 
