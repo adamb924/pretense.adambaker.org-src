@@ -70,6 +70,8 @@ I got about this point of the blog entry in September 2022, and I just stopped. 
 
 As it happened, that was not my last day in Prague. I went back on a business trip the following February, and saw the statue several more times. This time, I knew to stop and read not just the Hebrew, but also the ungracious Latin inscription, and the English inscriptions that contextualize the sculpture.
 
-Speaking personally, I hope that there was a moment of theological and artistic inspiration that was distinct from the political decision to attempt to shame the Jewish community. On the balance, I think that is not unlikely. No one could have come up with the Hebrew without a certain level of theological education, and I still find it hard to believe that someone would choose to disparage anyone with the holiest symbols in one's religion. I hope that the person who wrote the Latin plaque was just a bitter municipal bureaucrat. (And, let me be honest: I hope he died painfully.)
+Speaking personally, I hope that there was a moment of theological and artistic inspiration that was distinct from the political decision to attempt to shame the Jewish community. On the balance, I think that is not unlikely. No one could have come up with the Hebrew without a certain level of theological education, and I still find it hard to believe that someone would choose to disparage anyone with the holiest symbols in one's religion. I hope that the person who wrote the Latin plaque was a different person, just a bitter municipal bureaucrat. But I don't know for sure.
 
 I'm also not writing as a person with a perfect track record. My holiest and pious thoughts are intermingled with many more fleshly aspirations. If my life were a statue, there would be some ungracious inscriptions on it. I look forward to a day when all of that can be sorted out.
+
+But for now, I have not printed out the photo to hang on my wall.
