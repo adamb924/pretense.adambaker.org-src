@@ -1,0 +1,49 @@
+@import "originalminima";
+
+body {
+    color: rgb(45, 45, 45);
+}
+
+@media only screen and (min-width: 600px) {
+    body > header {
+        background: no-repeat center;
+        background-size: cover;
+        background-image: url(/assets/images/cover.jpg);
+        height: 450px;
+    }
+}
+
+div.wrapper {
+    max-width: none;
+}
+
+header > div.wrapper {
+    background-color: black;
+}
+
+header > div.wrapper a.site-title, header > div.wrapper a.page-link {
+    color: #e3e3e3;
+}
+
+a.post-link {
+    color: rgb(45, 45, 45);
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav .menu-icon > svg {
+        fill: #e3e3e3;
+    }
+    .site-nav {
+        background: none;
+        border: none;
+    }
+
+    header > div.wrapper a.page-link {
+        color: black;
+    }
+    .trigger {
+        background-color: white;
+        border: medium solid black;
+    }
+}
+
