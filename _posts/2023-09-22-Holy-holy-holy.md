@@ -9,7 +9,7 @@ categories:
 
 On the morning of our last day in Prague, I took a walk through the city and found it, as the guidebook had promised, all but deserted in the early morning hours. We had crossed the Charles Bridge many times in our few days in the city, but whether by coincidence or divine appointment, I had not previously noticed this statue.
 
-![Calvary on Charles Bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/K%C5%99%C3%AD%C5%BE_na_Karlov%C4%9B_most%C4%9B-2.jpg/520px-K%C5%99%C3%AD%C5%BE_na_Karlov%C4%9B_most%C4%9B-2.jpg)
+![Calvary on Charles Bridge](/assets/images/charles-bridge-calvary.jpg)
 
 My initial response was to feel frisson of pride for understanding the inscription: “Holy, Holy, Holy, Lord of Hosts.” Then my stunted aesthetic sense registered a further satisfaction: a four-part title, corresponding to the four arms of the cross. The lighting was not exceptional that morning, and I did not look closely at the statue, but I paused somewhat before moving on.
 
