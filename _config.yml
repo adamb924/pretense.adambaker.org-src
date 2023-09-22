@@ -20,8 +20,8 @@
 
 title: pre⋅ténse
 # email: adamb924@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a part of all that I have met; yet all experience is an arch wherethro' Gleams that untravell'd world whose margin fades for ever and forever when I move. 
+#description: >- # this means to ignore newlines until "baseurl:"
+#  This is the personal blog of Adam Baker 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pretense.adambaker.org/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
