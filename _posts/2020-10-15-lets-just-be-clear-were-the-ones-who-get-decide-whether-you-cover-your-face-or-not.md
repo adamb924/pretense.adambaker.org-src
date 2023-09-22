@@ -15,7 +15,7 @@ The year 2020 has certainly been a time of upheavals, and of changes to our soci
 
 Before COVID, I know a lot of people felt pretty strongly about face coverings. You’d see people saying [stuff like this](https://www.aljazeera.com/news/2020/9/22/frances-decades-long-feud-over-the-hijab-takes-centre-stage) on Twitter: “As a Member of Parliament and a feminist, committed to Republican values, to laicite and women’s rights, I cannot accept someone who enters a National Assembly hearing wearing a hijab, which for me remains a mark of submission.” And now of course [wearing a face mask is mandatory](https://www.bbc.com/news/world-europe-53471497) for everyone.
 
-![Woman wearing a hijab and face mask](/doc/assets/macron-reunion-676x380.jpg)
+![Woman wearing a hijab and face mask](/assets/images/macron-reunion-676x380.jpg)
 <p><em>President Macron announces whether Muslim women should cover their faces or not.</em></p>
 
 I know that can seem a little hypocritical or inconsistent, so let me just explain the underlying logic for you: we’re the ones who decide whether you cover your face or not.
@@ -25,7 +25,7 @@ These are highly charged issues to begin with, and I realize we haven’t always
 It might come down to personal freedom. It might come down to public health. I really can’t predict the future. But I know this much: we’ll be the ones to decide, and not you.
 
 
-![Woman wearing a hijab and face mask](/doc/assets/masked-woman.jpg)
+![Woman wearing a hijab and face mask](/assets/images/masked-woman.jpg)
 <p><em>A Muslim woman exercises her freedom to comply with the dictates of the French government.</em></p>
 
 
