@@ -1,5 +1,5 @@
 ---
-title: 'Disingenuous arguments against the death penalty'
+title: 'Before the 2024 election'
 date: '2024-11-02'
 author: adamb924
 layout: post
